@@ -1,8 +1,21 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
 /* Police et style global */
+* {
+  @apply scroll-smooth;
+}
+
 body {
-  @apply bg-gray-900 text-white font-sans;
+  @apply bg-black text-white font-sans;
+}
+
+html {
+  @apply scroll-smooth;
+}
+
+/* Couleurs personnalisées */
+:root {
+  --color-primary: #facc15; /* Jaune */
+  --color-secondary: #22c55e; /* Vert */
+  --color-dark: #000000; /* Noir sombre */
 }
