@@ -1,7 +1,7 @@
 const projects = [
-  { title: "Projet 1", description: "Application React avec API", link: "#" },
-  { title: "Projet 2", description: "Site e-commerce Tailwind", link: "#" },
-  { title: "Projet 3", description: "Portfolio animé", link: "#" },
+  { title: "Projet 1", description: "Calculatrice Fonctionelle avec du JavaScript", link: "#" },
+  { title: "Projet 2", description: "Site pour les afro-events au Bénin.", link: "#" },
+  { title: "Projet 3", description: "Portfolio", link: "#" },
 ];
 
 export default function Projects() {
