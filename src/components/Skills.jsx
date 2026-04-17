@@ -1,6 +1,5 @@
 const skills = [
   { category: "Frontend", items: ["React.js", "Tailwind CSS", "JavaScript", "HTML/CSS"] },
-  { category: "Backend", items: ["Node.js", "Express", "MongoDB", "API REST"] },
   { category: "Outils", items: ["Git", "GitHub", "Vite", "VS Code"] },
   { category: "Soft Skills", items: ["Communication", "Travail en équipe", "Résolution de problèmes", "Apprentissage continu"] },
 ];

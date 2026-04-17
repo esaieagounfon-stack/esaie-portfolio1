@@ -12,10 +12,10 @@ export default function Hero() {
           </p>
 
           <a
-            href="#projects"
+            href="#about"
             className="inline-block bg-yellow-400 text-black font-bold py-3 px-6 rounded-lg hover:bg-green-500 hover:text-white transition-all transform hover:scale-105"
           >
-            Découvrez mes projets
+            Qui suis-je ?
           </a>
         </div>
 
