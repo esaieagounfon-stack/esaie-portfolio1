@@ -9,13 +9,13 @@ export default function Skills() {
   return (
     <section id="skills" className="py-20 bg-gradient-to-b from-black to-gray-900">
       <div className="max-w-6xl mx-auto px-6">
-        <h2 className="text-5xl font-bold text-center text-yellow-400 mb-16">
+        <h2 className="text-4xl font-bold text-center text-yellow-400 mb-12 sm:text-5xl">
           Mes Compétences
         </h2>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
           {skills.map((skillGroup, idx) => (
-            <div key={idx} className="bg-gray-800 p-8 rounded-lg border-2 border-green-500 hover:border-yellow-400 transition-all hover:transform hover:scale-105">
+            <div key={idx} className="bg-gray-800 p-6 rounded-lg border-2 border-green-500 hover:border-yellow-400 transition-all hover:transform hover:scale-105 sm:p-8">
               <h3 className="text-2xl font-bold text-yellow-400 mb-6 text-center">
                 {skillGroup.category}
               </h3>

@@ -2,9 +2,9 @@ export default function Contact() {
   return (
     <section id="contact" className="py-20 bg-black px-6">
       <div className="max-w-2xl mx-auto">
-        <h2 className="text-5xl font-bold mb-4 text-center text-yellow-400">Me Contacter</h2>
-        <p className="text-gray-400 mb-12 text-center text-lg">Vous avez un projet en tête ? Contactez-moi !</p>
-        <form className="space-y-6 bg-gray-800 p-10 rounded-lg border-2 border-green-500">
+        <h2 className="text-4xl font-bold mb-4 text-center text-yellow-400 sm:text-5xl">Me Contacter</h2>
+        <p className="text-gray-400 mb-12 text-center text-base sm:text-lg">Vous avez un projet en tête ? Contactez-moi !</p>
+        <form className="space-y-6 bg-gray-800 p-8 rounded-lg border-2 border-green-500 sm:p-10">
           <input
             type="text"
             placeholder="Votre nom"
