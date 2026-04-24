@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { createMyAfriChat } from "my-africhat";
-import { afriChatConfig } from "./africhat.config";
+import { afriChatConfig } from "../africhat.config";
 
 export default function AIChat() {
   useEffect(() => {
