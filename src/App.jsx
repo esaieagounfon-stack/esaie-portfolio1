@@ -7,6 +7,7 @@ import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import AIChat from "./components/AIChat";
 
 export default function App() {
   const [showContent, setShowContent] = useState(false);
@@ -23,6 +24,7 @@ export default function App() {
           <Projects />
           <Contact />
           <Footer />
+          <AIChat />
         </div>
       )}
     </>
