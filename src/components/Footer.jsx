@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="bg-black border-t-2 border-green-500 py-8">
       <div className="max-w-6xl mx-auto px-6 text-center">
-        <p className="text-gray-300 mb-4">&copy; 2026 Esaie AG. Tous droits réservés.</p>
+        <p className="text-gray-300 mb-4">&copy; 2026 Esaie AGOUNFON. Tous droits réservés.</p>
         <div className="flex justify-center gap-6">
           <a href="https://www.facebook.com/togis.lawal.94" className="text-gray-300 hover:text-yellow-400 transition-colors">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
