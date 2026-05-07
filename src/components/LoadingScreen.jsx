@@ -10,7 +10,7 @@ export default function LoadingScreen({ onComplete }) {
     }, 3000);
 
     return () => clearTimeout(timer);
-  }, [onComplete]);
+  }, []);
 
   if (!isVisible) return null;
 
