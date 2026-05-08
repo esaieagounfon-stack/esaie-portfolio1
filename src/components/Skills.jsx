@@ -8,7 +8,7 @@ export default function Skills() {
   return (
     <section id="skills" className="py-20 bg-gradient-to-b from-black to-gray-900">
       <div className="max-w-6xl mx-auto px-6">
-        <h2 className="text-4xl font-bold text-center text-yellow-400 mb-12 sm:text-5xl">
+        <h2 className="text-3xl font-bold text-center items-center text-yellow-400 mb-12 sm:text-5xl">
           Mes Compétences
         </h2>
 

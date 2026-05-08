@@ -1,6 +1,6 @@
 const projects = [
-  { title: "Projet 1", description: "Calculatrice Fonctionelle avec du JavaScript", link: "#" },
-  { title: "Projet 2", description: "Site pour les afro-events au Bénin.", link: "#" },
+  { title: "Projet 1", description: "Calculatrice Fonctionelle avec du JavaScript", link: "https://hilarious-kataifi-30dc12.netlify.app/" },
+  { title: "Projet 2", description: "Site pour les afro-events au Bénin.", link: "https://afro-event-59e182.netlify.app/" },
   { title: "Projet 3", description: "Portfolio", link: "#" },
 ];
 
