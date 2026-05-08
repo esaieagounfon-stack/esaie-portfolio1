@@ -4,8 +4,8 @@ export default function Hero() {
       <div className="grid gap-12 items-center max-w-6xl mx-auto md:grid-cols-2">
         {/* Texte */}
         <div className="text-center md:text-left">
-          <h1 className="text-1xl font-bold text-yellow-400 mb-6 sm:text-5xl md:text-6xl">
-            Bonjour, je suis Esaie AGOUNFON
+          <h1 className="text-1xl font-bold text-yellow-400 mb-6 sm:text-3xl md:text-6xl">
+            Bonjour, je suis Esaïe AGOUNFON
           </h1>
           <p className="text-lg text-green-400 mb-6 sm:text-xl">
             Développeur Web Full Stack passionné par la création d'expériences web innovantes.
